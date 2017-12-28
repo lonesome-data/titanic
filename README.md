@@ -46,15 +46,15 @@ Navigate to the relevant 'titanic' directory and install required packages in a 
 conda env create -f environment.yml
 ```
 
-This will create a new environment called titanic_environment. To activate the environment on OSX/Linux, execute
+This will create a new environment called titanic_env. To activate the environment on OSX/Linux, execute
 
 ```
-source activate titanic_environment
+source activate titanic_env
 ```
 On Windows, execute
 
 ```
-activate titanic_environment
+activate titanic_env
 ```
 ### 4. Open your Jupyter notebook
 
